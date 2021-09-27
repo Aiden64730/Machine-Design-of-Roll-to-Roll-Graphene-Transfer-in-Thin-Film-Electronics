@@ -11,13 +11,13 @@
 
 •	Applied the roll-to-roll manufacturing process for biodegradable graphene sensors for wearable electronics
 
-<div align=center><img src="https://github.com/Aiden64730/Machine-Design-of-Roll-to-Roll-Graphene-Transfer-in-Thin-Film-Electronics/blob/main/Images/Prototyping.jpg" width="600" height="330" /></div>
+<div align=center><img src="https://github.com/Aiden64730/Machine-Design-of-Roll-to-Roll-Graphene-Transfer-in-Thin-Film-Electronics/blob/main/Images/Prototyping.jpg" width="500" height="300" /></div>
 <div align=center>Prototyping</div>
 <br/>
 
-<div align=center><img src="https://github.com/Aiden64730/Machine-Design-of-Roll-to-Roll-Graphene-Transfer-in-Thin-Film-Electronics/blob/main/Images/Roll-to-Roll System.jpg" width="600" height="330" /></div>
+<div align=center><img src="https://github.com/Aiden64730/Machine-Design-of-Roll-to-Roll-Graphene-Transfer-in-Thin-Film-Electronics/blob/main/Images/Roll-to-Roll System.jpg" width="500" height="300" /></div>
 <div align=center>Roll-to-Roll System</div>
 <br/>
 
-<div align=center><img src="https://github.com/Aiden64730/Machine-Design-of-Roll-to-Roll-Graphene-Transfer-in-Thin-Film-Electronics/blob/main/Images/GFET.jpg" width="600" height="330" /></div>
+<div align=center><img src="https://github.com/Aiden64730/Machine-Design-of-Roll-to-Roll-Graphene-Transfer-in-Thin-Film-Electronics/blob/main/Images/GFET.jpg" width="300" height="360" /></div>
 <div align=center>Graphene Based Field Effect Transistor</div>

@@ -10,3 +10,5 @@
 •	Performed statistical analysis of a large data set using Python and identified the optimal loading condition
 
 •	Applied the roll-to-roll manufacturing process for biodegradable graphene sensors for wearable electronics
+
+<div align=center><img src="https://github.com/Aiden64730/Automated-Testing-in-Production-Planning-in-Test-based-Engineering/blob/main/Images/background.JPG" width="600" height="330" /></div>

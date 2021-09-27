@@ -1,1 +1,1 @@
-# Machine-Design-of-Roll-ro-Roll-Graphene-Transfer-in-Thin-Film-Electronics
+# Machine Design of Roll-to-Roll Graphene Transfer in Thin Film Electronics

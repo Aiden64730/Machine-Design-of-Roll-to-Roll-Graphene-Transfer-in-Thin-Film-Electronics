@@ -11,17 +11,22 @@
 
 •	Applied the roll-to-roll manufacturing process for biodegradable graphene sensors for wearable electronics
 
-<div align=center><img src="https://github.com/Aiden64730/Machine-Design-of-Roll-to-Roll-Graphene-Transfer-in-Thin-Film-Electronics/blob/main/Images/Motivation.png" width="500" height="300" /></div>
-<div align=center>Motivation</div>
+<div align=center><img src="https://github.com/Aiden64730/Machine-Design-of-Roll-to-Roll-Graphene-Transfer-in-Thin-Film-Electronics/blob/main/Images/Motivation.png" width="500" height="250" /></div>
+<div align=center>Research Motivation</div>
 <br/>
 
-<div align=center><img src="https://github.com/Aiden64730/Machine-Design-of-Roll-to-Roll-Graphene-Transfer-in-Thin-Film-Electronics/blob/main/Images/Prototyping.jpg" width="500" height="300" /></div>
-<div align=center>Prototyping</div>
+<div align=center><img src="https://github.com/Aiden64730/Machine-Design-of-Roll-to-Roll-Graphene-Transfer-in-Thin-Film-Electronics/blob/main/Images/Prototyping.jpg" width="500" height="300" /><img src="https://github.com/Aiden64730/Machine-Design-of-Roll-to-Roll-Graphene-Transfer-in-Thin-Film-Electronics/blob/main/Images/Roll-to-Roll System.jpg" width="500" height="300" /></div>
+<div align=center>Prototyping and the real Roll-to-Roll system</div>
 <br/>
 
-<div align=center><img src="https://github.com/Aiden64730/Machine-Design-of-Roll-to-Roll-Graphene-Transfer-in-Thin-Film-Electronics/blob/main/Images/Roll-to-Roll System.jpg" width="500" height="300" /></div>
-<div align=center>Roll-to-Roll System</div>
-<br/>
+System Details:
+* Modules mounted on an aluminum plate (48''×28''×3‘’)
+* Unwinding/rewinding rollers (800 GH, Tidland)
+* Unwinding motor: NEMA 23 stepper motor (1-DM542S-23HS45)
+* Rewinding motor: brushless servo motor (Aerotech BM130) with 50:1 gearbox (PGCN23-5025)
+* 3 load cells (MAGPOWR CL-1-50) for tension measurements
+* USB camera
+* Cantilevered system design
 
-<div align=center><img src="https://github.com/Aiden64730/Machine-Design-of-Roll-to-Roll-Graphene-Transfer-in-Thin-Film-Electronics/blob/main/Images/GFET.jpg" width="300" height="360" /></div>
-<div align=center>Graphene Based Field Effect Transistor</div>
+
+

@@ -11,7 +11,7 @@
 
 •	Applied the roll-to-roll manufacturing process for biodegradable graphene sensors for wearable electronics
 
-<div align=center><img src="https://github.com/Aiden64730/Machine-Design-of-Roll-to-Roll-Graphene-Transfer-in-Thin-Film-Electronics/blob/main/Images/Motivation.jpg" width="500" height="300" /></div>
+<div align=center><img src="https://github.com/Aiden64730/Machine-Design-of-Roll-to-Roll-Graphene-Transfer-in-Thin-Film-Electronics/blob/main/Images/Motivation.png" width="500" height="300" /></div>
 <div align=center>Motivation</div>
 <br/>
 

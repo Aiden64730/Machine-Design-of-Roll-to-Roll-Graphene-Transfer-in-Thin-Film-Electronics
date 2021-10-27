@@ -19,7 +19,7 @@
 <div align=center>Prototyping and the real Roll-to-Roll system</div>
 <br/>
 
-<div align=center><img src="https://github.com/Aiden64730/Machine-Design-of-Roll-to-Roll-Graphene-Transfer-in-Thin-Film-Electronics/blob/main/Images/Pareto.jpg" width="500" height="300" /></div>
+<div align=center><img src="https://github.com/Aiden64730/Machine-Design-of-Roll-to-Roll-Graphene-Transfer-in-Thin-Film-Electronics/blob/main/Images/Pareto.jpg" width="450" height="280" /></div>
 <div align=center>Process Analysis (Pareto)</div>
 <br/>
 

@@ -23,6 +23,11 @@
 <div align=center>Process Analysis (Pareto)</div>
 <br/>
 
+
+<div align=center><img src="https://github.com/Aiden64730/Machine-Design-of-Roll-to-Roll-Graphene-Transfer-in-Thin-Film-Electronics/blob/main/Images/Control Loop.jpg" width="450" height="280" /></div>
+<div align=center>Control Loop</div>
+<br/>
+
 System Details:
 * Modules mounted on an aluminum plate (48''×28''×3‘’)
 * Unwinding/rewinding rollers (800 GH, Tidland)
